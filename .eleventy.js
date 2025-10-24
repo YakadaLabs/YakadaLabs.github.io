@@ -8,14 +8,6 @@ module.exports = function(eleventyConfig) {
   // Copy CNAME file for GitHub Pages
   eleventyConfig.addPassthroughCopy("src/CNAME");
 
-  // Add pathPrefix filter for GitHub Pages subdirectory support
-  eleventyConfig.addFilter("url", function(url) {
-    const pathPrefix = process.env.ELEVENTY_PATH_PREFIX || "";
-    if (!url) return url;
-    if (url.startsWith('http')) return url;
-    return pathPrefix + url;
-  });
-
   return {
     dir: {
       input: "src",
@@ -24,7 +16,6 @@ module.exports = function(eleventyConfig) {
       data: "_data"
     },
     markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
-    pathPrefix: process.env.ELEVENTY_PATH_PREFIX || "/"
+    htmlTemplateEngine: "njk"
   };
 };
