@@ -5,8 +5,8 @@ module.exports = function(eleventyConfig) {
   // Copy images if you add them later
   eleventyConfig.addPassthroughCopy("src/images");
 
-  // Copy CNAME file for GitHub Pages
-  eleventyConfig.addPassthroughCopy("src/CNAME");
+  // Copy CNAME file for GitHub Pages (temporarily disabled for troubleshooting)
+  // eleventyConfig.addPassthroughCopy("src/CNAME");
 
   return {
     dir: {
