@@ -9,26 +9,20 @@ description: Learn more about Yakada Labs and what we do
 </div>
 
 <div class="content-section">
-  <h2 id="company">Company</h2>
-  <p>Yakada Labs is a technology consulting firm specializing in modern software development and cloud solutions. We help businesses transform their ideas into robust, scalable applications.</p>
+  <h2 id="company">Yakada Labs</h2>
+  <p>Yakada Labs is a software development partner that builds production grade custom AI systems.We integrate AI development with over two decades of expirence in engineering highly available, scalable cloud platforms for Fortune 500 companies.</p>
+  <p>In Sinhala, 'Yakada' (යකඩ) means iron. But iron is more than just a strong material; it is a material that is forged. It can be heated, hammered, and shaped into the specific tool needed for a precise job.</p>
+
+  <p>This is our philosophy. We take the raw power of artificial intelligence and forge it. We don't offer one-size-fits-all products; we build custom AI solutions, meticulously shaped to meet the unique challenges and goals of each client. We deliver tools that are not only powerful but purposeful, durable, and a perfect fit.</p>
 </div>
 
 <div class="content-section">
-  <h2 id="team">Team</h2>
-  <p>Our team consists of experienced engineers and technology leaders who are passionate about building high-quality software and solving complex technical challenges.</p>
-</div>
-
-<div class="content-section">
-  <h2 id="services">Services</h2>
-  <p>We offer comprehensive services including software architecture, full-stack development, cloud infrastructure design, DevOps implementation, and technical consulting.</p>
-</div>
-
-<div class="content-section">
-  <h2 id="expertise">Expertise</h2>
-  <p>Our core expertise spans modern web technologies, cloud platforms (AWS, GCP, Azure), microservices architecture, containerization, and CI/CD automation.</p>
-</div>
-
-<div class="content-section">
-  <h2 id="contact">Contact</h2>
-  <p>Interested in working with us? Reach out to discuss your project and how we can help bring your vision to life.</p>
+  <h2 id="princiles">Principles</h2>
+    <p>These are the core principles of the company. We will use these principles to guide our work, collaborations and day to day life in the company.</p>
+  <h3>Focus on the customer</h3>
+  <h3>Be Reliable</h3>
+  <h3>Communicate Clearly</h3>
+  <h3>Be Curios & Seek the Truth</h3>
+  <h3>Take Action</h3>
+  <h3>Be Kind</h3>
 </div>
