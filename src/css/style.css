@@ -1,3 +1,6 @@
+/* Import Sinhala Font Support */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala:wght@400;600;700&display=swap');
+
 /* CSS Reset and Variables */
 :root {
     --bg-color: #ffffff;
@@ -25,7 +28,7 @@ html {
 body {
     font-family:
         -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
-        Cantarell, sans-serif;
+        Cantarell, "Noto Sans Sinhala", sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
     line-height: 1.6;
