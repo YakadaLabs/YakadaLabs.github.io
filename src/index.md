@@ -8,6 +8,10 @@ description: Building innovative solutions for tomorrow's challenges
   <img src="/images/logo.png" alt="Yakada Labs Logo Mark" class="logo-image">
 </div>
 
+<div class="info-section">
+ <a href="mailto:info@yakadalabs.com">info@yakadalabs.com</a>
+</div>
+
 <div class="content-section">
   <p>We are a technology partner focused on delivering exceptional solutions that drive real business value.</p>
 </div>
