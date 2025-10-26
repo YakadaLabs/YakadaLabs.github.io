@@ -5,11 +5,10 @@ description: Learn more about Yakada Labs and what we do
 ---
 
 <div class="logo">
-  <h1>About Yakada Labs</h1>
+  <h1>Yakada Labs</h1>
 </div>
 
 <div class="content-section">
-  <h2 id="company">Yakada Labs</h2>
   <p>Yakada Labs is a software development partner that builds production grade custom AI systems.We integrate AI development with over two decades of expirence in engineering highly available, scalable cloud platforms for Fortune 500 companies.</p>
   <p>In Sinhala, 'Yakada' (යකඩ) means iron. But iron is more than just a strong material; it is a material that is forged. It can be heated, hammered, and shaped into the specific tool needed for a precise job.</p>
 
@@ -22,7 +21,8 @@ description: Learn more about Yakada Labs and what we do
   <h3>Focus on the customer</h3>
   <h3>Be Reliable</h3>
   <h3>Communicate Clearly</h3>
-  <h3>Be Curios & Seek the Truth</h3>
+  <h3>Be Curios </h3>
+  <h3>Seek the Truth</h3>
   <h3>Take Action</h3>
   <h3>Be Kind</h3>
 </div>
