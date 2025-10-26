@@ -8,11 +8,11 @@ description: Building innovative solutions for tomorrow's challenges
 </div>
 
 <div class="content-section">
-  <p>Yakada Labs is a software development partner that builds production grade custom AI systems.We integrate AI development with over two decades of expirence in engineering highly available, scalable cloud platforms for Fortune 500 companies.</p>
+  <p>Yakada Labs is a software development partner that builds production grade custom AI systems. We integrate AI development with over two decades of experience in engineering highly available, scalable cloud platforms for Fortune 500 companies.</p>
 </div>
 
 <div class="content-section">
-<p>We are builders, tinkerers, and perpetual learners, not consultants.We focus on shipping robust code, and we let our work speak for itself.</p>
+  <p>We are builders, tinkerers, and perpetual learners, not consultants. We focus on shipping robust code, and we let our work speak for itself.</p>
 </div>
 
 <div class="info-section">
