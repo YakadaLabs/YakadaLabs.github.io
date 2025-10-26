@@ -89,6 +89,22 @@ body {
     font-weight: 400;
 }
 
+/* Left-aligned content sections (for about page) */
+.content-section.left-aligned {
+    text-align: left;
+    max-width: 800px;
+}
+
+.content-section.left-aligned h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.content-section.left-aligned h3 {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
 /* Clients Grid */
 .clients {
     margin: var(--spacing-lg) 0;
