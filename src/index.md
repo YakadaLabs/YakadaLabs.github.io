@@ -5,7 +5,7 @@ description: Building innovative solutions for tomorrow's challenges
 ---
 
 <div class="logo">
-  <h1>Yakada Labs</h1>
+  <img src="/images/logo.png" alt="Yakada Labs Logo Mark" class="logo-image">
 </div>
 
 <div class="content-section">
@@ -20,13 +20,4 @@ description: Building innovative solutions for tomorrow's challenges
   <p>We work with organizations of all sizes to build scalable, maintainable systems that stand the test of time.</p>
 </div>
 
-<div class="clients">
-  <h2>Trusted By</h2>
-  <div class="clients-grid">
-    {% for client in clients %}
-    <div class="client-item">
-      <span class="client-name">{{ client.name }}</span>
-    </div>
-    {% endfor %}
-  </div>
-</div>
+

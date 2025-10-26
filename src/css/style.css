@@ -1,10 +1,10 @@
 /* CSS Reset and Variables */
 :root {
-  --bg-color: #000000;
-  --text-color: #e5e7eb;
-  --text-muted: #9ca3af;
-  --border-color: #374151;
-  --hover-color: #3730a3;
+  --bg-color: #ffffff;
+  --text-color: #1f2937;
+  --text-muted: #6b7280;
+  --border-color: #e5e7eb;
+  --hover-color: #4f46e5;
   --max-width: 800px;
   --spacing-sm: 1rem;
   --spacing-md: 2rem;
@@ -36,38 +36,41 @@ body {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: var(--spacing-lg) var(--spacing-md);
+  padding: 0 var(--spacing-md) 4rem;
   flex: 1;
 }
 
 /* Logo Section */
 .logo {
-  text-align: center;
-  margin-bottom: var(--spacing-lg);
+  textralign: center;
+  margin-bottom: 1.5rem;
 }
 
 .logo-image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: var(--spacing-md);
-}
-
-.logo h1 {
-  font-size: 2rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
+  width: 400px;
+  height: auto;
+  display: block;
 }
 
 /* Content Sections */
 .content-section {
-  margin-bottom: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
   text-align: center;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .content-section p {
   font-size: 1.125rem;
-  color: var(--text-muted);
-  margin-bottom: 1rem;
+  color: var(--text-color);
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+
+.content-section:first-of-type p {
+  font-size: 1.25rem;
+  font-weight: 400;
 }
 
 /* Clients Grid */
@@ -162,12 +165,8 @@ body {
   }
 
   .logo-image {
-    width: 150px;
-    height: 150px;
-  }
-
-  .logo h1 {
-    font-size: 1.5rem;
+    width: 80px;
+    height: auto;
   }
 
   .content-section p {
