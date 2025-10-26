@@ -8,6 +8,11 @@ module.exports = function(eleventyConfig) {
   // Copy CNAME file for GitHub Pages
   eleventyConfig.addPassthroughCopy("src/CNAME");
 
+  // Add build timestamp for cache busting
+  eleventyConfig.addGlobalData("buildTimestamp", () => {
+    return Date.now();
+  });
+
   return {
     dir: {
       input: "src",
