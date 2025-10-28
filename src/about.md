@@ -19,10 +19,10 @@ description: Learn more about Yakada Labs and what we do
   <h2 id="principles">Principles</h2>
   <p>These are the core principles of the company. We will use these principles to guide our work, collaborations, and day to day life in the company.</p>
   <h3>Focus on the customer</h3>
-  <p>We are in the service business, we will help our customers better serve their customers. We build relationships with our customers based on trust. We will measure our success by our customers' outcomes. We have a long-term view of customer relationships. We are creating partnerships for decades, not for one project.</p>
+    <p>Our mission is to help our customers deliver outstanding service to their customers. We build these relationships on a foundation of trust and measure our success by their outcomes. We are not focused on single projects; we are committed to building partnerships that last for decades.</p>
   <h3>Be Reliable</h3>
-  <p>In every way be reliable. Every day work to improve your "say-do" ratio, where your actions match with your words. Be a reliable teammate. If your team expects you to deliver something, do it before the agreed-upon deadline. Take ownership of your work; make sure it is complete. Don't let someone else find gaps in your work. If you can't keep a commitment you already made, be proactive in your communication.</p>
-  <p>Close the open loops. If you are responsible for following up on something, make sure to see it through to completion. Don't blame others for not responding to you.</p>
+    <p>Be unfailingly reliable. Your core commitment is to your 'say-do' ratio: let your actions always match your words. Be the teammate others can count on. Take absolute ownership of your work, ensuring it is complete and delivered before the deadline. Don't wait for others to find gaps, find them yourself. If a commitment is at risk, reliability demands proactive communication. Inform your team immediately.</p>
+    <p>Close the open loops. If you are responsible for following up on something, make sure to see it through to completion. Don't blame others for not responding to you.</p>
   <h3>Communicate Clearly</h3>
   <p>Communicate with everyone clearly and set expectations accordingly. If you have made a commitment and you realize that you can't complete it on time, communicate that to everyone involved. Ask for help when you need it.</p>
   <p>Practice active listening; paraphrase to verify your understanding is correct.</p>
